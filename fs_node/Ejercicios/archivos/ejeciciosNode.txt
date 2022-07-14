@@ -1,0 +1,2 @@
+Ejercio 1 de node js curso practico.
+Modificación del archivo de ejercicios y lectura.

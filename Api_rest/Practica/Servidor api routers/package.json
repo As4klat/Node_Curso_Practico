@@ -1,0 +1,22 @@
+{
+  "name": "servidor-api-routers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidorAPI_REST_Router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon servidorAPI_REST_Router.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "morgan": "^1.10.0",
+    "rotating-file-stream": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
